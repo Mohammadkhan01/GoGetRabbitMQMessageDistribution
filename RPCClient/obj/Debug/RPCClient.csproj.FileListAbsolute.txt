@@ -1,0 +1,10 @@
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\RPCClient.exe.config
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\RPCClient.exe
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\RPCClient.pdb
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\RabbitMQ.Client.dll
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\bin\Debug\RabbitMQ.Client.xml
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\obj\Debug\RPCClient.exe
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\obj\Debug\RPCClient.pdb
+C:\Users\reyal\documents\visual studio 2013\Projects\ConsoleApplication5\RPCClient\obj\Debug\RPCClient.csprojResolveAssemblyReference.cache

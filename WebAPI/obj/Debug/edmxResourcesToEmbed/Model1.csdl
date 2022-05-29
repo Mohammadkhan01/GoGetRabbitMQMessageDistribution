@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TestEntities1" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetAll" ReturnType="Collection(TestModel.GetAll_Result)" />
+  </EntityContainer>
+  <ComplexType Name="GetAll_Result">
+    <Property Type="Int32" Name="DeviceId" Nullable="true" />
+    <Property Type="String" Name="Details" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>
